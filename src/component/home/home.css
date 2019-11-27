@@ -1,0 +1,76 @@
+  .button {
+    background-color: #000407; 
+    border: none;
+    color: #080808;
+    padding: 10px 36px;
+     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin: 0px 0px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    position: relative;
+    top: 500px;
+    left: 150px;
+    
+    border-radius: 8px;
+    box-shadow: 10px 8px 16px 0 rgba(0,0,0,0.2), 10px 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button1 {
+    box-shadow: 10px 8px 16px 0 rgba(0,0,0,0.2), 10px 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+
+  input[type=button] {
+    background-color:black;
+    border: none;
+    color: rgb(20, 131, 182);
+    padding: 8px 5px;
+    text-decoration: none;
+    margin: none;
+    cursor: pointer;
+  }
+ 
+
+  .body{
+  /* background-size:100%; */
+    /* background-color: blueviolet; */
+    height: 710px;
+    width: 950px; 
+    background-image: url("./../../assets/imges/Robo.jpeg");
+  }
+
+  
+/*  
+  ::-webkit-scrollbar {
+    display: none;
+    } */
+
+    .font{
+      font-size: 70px;
+      /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+      /* font-style: oblique; */
+    }
+
+
+    /* .button {
+      display: inline-block;
+      border-radius: 4px;
+      background-color: black;
+      border: none;
+      color: rgb(33, 132, 172);
+      text-align: center;
+      font-size: 30px;
+      padding: 0px;
+      width: 290px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+      height: 70px;
+    } */
+    
+    
+    
